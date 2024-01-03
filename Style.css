@@ -21,7 +21,7 @@ body{
   flex-direction:column;
   justify-content:center;
   align-items:center;
-  border-radius:0px;
+  border-radius:20px;
 }
 h4{
   font-size:20px;
@@ -76,7 +76,7 @@ form button:hover{
   text-align:center;
   border-radius:5px;
   background:#f0f0f0;
-  font-size:25px;
+  font-size:5px;
 }
 .input_field_box input::-webkit-inner-spin-button,
 .input_field_box input::-webkit-outer-spin-button{
